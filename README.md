@@ -4,7 +4,7 @@
 
 190 Seedance 2.5 video prompts across 9 categories. The November 18, 2026 update adds 150 creator examples discovered on X through AIsa ONE.
 
-Open a title to read the edited prompt in this repository. Each example links separately to the creator’s prompt and video on X. Bring your own starting image where the entry calls for one. The ReelDance website gallery is pending release.
+Open a title to read the edited prompt in this repository. Each example links separately to the creator’s prompt and video on X. Bring your own starting image where the entry calls for one. Browse and filter the examples in the [Seedance 2.5 Prompt Gallery on ReelDance](https://reeldance.ai/seedance-2-5-prompts).
 
 ## Action
 

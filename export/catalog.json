@@ -1,0 +1,1692 @@
+{
+  "schemaVersion": 1,
+  "model": "Seedance 2.5",
+  "source": {
+    "platform": "X",
+    "provider": "AIsa ONE",
+    "observedOn": "2026-11-18"
+  },
+  "count": 40,
+  "entries": [
+    {
+      "slug": "desk-skateboard-doodle",
+      "title": {
+        "en": "A Skateboard Doodle Crosses a Desk",
+        "ja": "机を滑る手描きスケーター"
+      },
+      "summary": {
+        "en": "A hand-drawn rider stays integrated with a real desk through changes in height and framing.",
+        "ja": "手描きのスケーターを机の高さや画角の変化になじませる。"
+      },
+      "category": "character-animation",
+      "tags": ["mixed media", "skateboard", "desk"],
+      "prompt": "Put a tiny hand-drawn skater in an orange shirt onto a real office desk. Track at the level of the board as it rolls past pens and notebooks, then rise slightly as the skater turns an office supply into a ramp. Give the drawn figure shadows that follow the desk light and keep the desk objects solid. Let the sound of rolling wheels and a short landing mark the motion. Close with a wide reveal of the desk.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "harboriis",
+        "name": "Harboris"
+      },
+      "publishedAt": "2026-09-27T07:11:01Z",
+      "promptSourceUrl": "https://x.com/harboriis/status/2104106520808157221",
+      "videoSourceUrl": "https://x.com/harboriis/status/2104106520808157221",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2104106404512768000",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "durationSec": 30.113
+      },
+      "stats": {
+        "likes": 226,
+        "views": 39337,
+        "reposts": 23,
+        "comments": 50
+      }
+    },
+    {
+      "slug": "walking-to-a-window-seat",
+      "title": {
+        "en": "A Travel Vlog from Aisle to Window Seat",
+        "ja": "通路から窓側の座席までの旅Vlog"
+      },
+      "summary": {
+        "en": "An everyday airplane sequence moves from aisle tracking to a quieter window composition.",
+        "ja": "機内通路の追い撮りから、窓側の落ち着いた画角へと切り替える。"
+      },
+      "category": "ugc",
+      "tags": ["travel vlog", "airplane", "window light"],
+      "prompt": "Make a short travel vlog inside a passenger plane. Track an adult walking down the aisle with a small shoulder bag, keeping the seats and overhead bins aligned. Cut closer as she reaches her row and sits at the window. End from just behind her shoulder with the view and cabin reflections visible in the glass. Keep exposure natural as the camera turns toward the bright window. Use soft cabin sounds and small movements from other passengers.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Goodmanprotocol",
+        "name": "Saul Goodman"
+      },
+      "publishedAt": "2026-09-25T17:15:19Z",
+      "promptSourceUrl": "https://x.com/Goodmanprotocol/status/2103533820263944679",
+      "videoSourceUrl": "https://x.com/Goodmanprotocol/status/2103533820263944679",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2103533759698182144",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "durationSec": 30.08
+      },
+      "stats": {
+        "likes": 481,
+        "views": 38670,
+        "reposts": 42,
+        "comments": 34
+      }
+    },
+    {
+      "slug": "miniature-convenience-store",
+      "title": {
+        "en": "A Miniature Run Through a Corner Shop",
+        "ja": "小さな主人公のコンビニ横断"
+      },
+      "summary": {
+        "en": "A macro tracking sequence makes shelves and a checkout conveyor read like a large set.",
+        "ja": "棚やレジのベルトを巨大な舞台に見せるマクロ撮影。"
+      },
+      "category": "character-animation",
+      "tags": ["miniature", "parallax", "macro tracking"],
+      "prompt": "Follow a tiny adventurer through a full-size convenience store. Track low along a shelf as packets crinkle underfoot, then shift to a moving cart and a checkout conveyor that fills the frame. Keep the person's size stable relative to labels and handles. Finish with a pullback from a high display to reveal the whole store and its normal-sized shoppers. Use foreground parallax and everyday shop sounds.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "AIwithkhan",
+        "name": "Smiling Khan"
+      },
+      "publishedAt": "2026-10-03T14:56:16Z",
+      "promptSourceUrl": "https://x.com/AIwithkhan/status/2106397932304191969",
+      "videoSourceUrl": "https://x.com/AIwithkhan/status/2106397932304191969",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2106397816969121792",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 30.08
+      },
+      "stats": {
+        "likes": 620,
+        "views": 33157,
+        "reposts": 71,
+        "comments": 58
+      }
+    },
+    {
+      "slug": "blue-pencil-draws-the-city",
+      "title": {
+        "en": "A Blue Pencil Draws the City",
+        "ja": "青い鉛筆で街を描き変える"
+      },
+      "summary": {
+        "en": "A pencil stroke carries real movement into hand-drawn lines across a series of city views.",
+        "ja": "鉛筆の線をきっかけに、街の動きを実写から手描きに変える。"
+      },
+      "category": "video-editing",
+      "tags": ["rotoscoping", "POV", "illustration"],
+      "prompt": "Show a city in first person. A hand lifts a blue pencil and traces the body of a passing train. Let the train become animated line art while its speed and perspective continue. Repeat the idea with a tabby on the sidewalk and a pastel bus. Keep the transformations local to the area the pencil touches and preserve the framing just before and after each change. Use ordinary daylight and let the street sounds run through the transitions.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Sairah_0",
+        "name": "Sairah"
+      },
+      "publishedAt": "2026-08-18T03:33:51Z",
+      "promptSourceUrl": "https://x.com/Sairah_0/status/2089556355384512991",
+      "videoSourceUrl": "https://x.com/Sairah_0/status/2089556355384512991",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2089556240577986560",
+        "width": 2880,
+        "height": 2160,
+        "orientation": "landscape",
+        "durationSec": 15.041
+      },
+      "stats": {
+        "likes": 359,
+        "views": 23884,
+        "reposts": 49,
+        "comments": 58
+      }
+    },
+    {
+      "slug": "alpine-morning-travel-film",
+      "title": {
+        "en": "An Alpine Morning in Switzerland",
+        "ja": "スイスの山あいの朝"
+      },
+      "summary": {
+        "en": "An aerial valley reveal leads into lakeside and campsite details in a travel sequence.",
+        "ja": "谷の空撮から湖畔やキャンプの細部へとつなぐ旅の映像。"
+      },
+      "category": "travel-commercial",
+      "tags": ["travel", "aerial", "mountain lake"],
+      "prompt": "Open high over mist in a Swiss valley, letting the cliffs and waterfalls emerge as the camera glides forward. Cut to a walker beside a clear alpine lake. Lower the camera for the campsite details: a pale tent, wildflowers and steam above a cup. Use the changing distance from landscape to person to make the place feel lived in. Keep daylight natural and let water and wind connect the scenes.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Aurora_Valentii",
+        "name": "Aurora"
+      },
+      "publishedAt": "2026-11-17T03:38:45Z",
+      "promptSourceUrl": "https://x.com/Aurora_Valentii/status/2122534883780096123",
+      "videoSourceUrl": "https://x.com/Aurora_Valentii/status/2122534883780096123",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122534564791033856",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 30.05
+      },
+      "stats": {
+        "likes": 117,
+        "views": 20429,
+        "reposts": 36,
+        "comments": 17
+      }
+    },
+    {
+      "slug": "empty-fortress-security-camera",
+      "title": {
+        "en": "An Empty Fortress on Security Cameras",
+        "ja": "監視カメラで見る空城の計"
+      },
+      "summary": {
+        "en": "Fixed viewpoints and a continuous timestamp sell an absurd alternate-history scene.",
+        "ja": "固定の画角と途切れない時刻表示で、架空の歴史コメディを見せる。"
+      },
+      "category": "comedy",
+      "tags": ["alternate history", "fixed camera", "black and white"],
+      "prompt": "拍一段架空的三国喜剧。用三台黑白固定广角监控拍同一座空城：城门内有人扫地，城楼上的文士用笔记本摆弄几架小飞行器，城外的将士看到后迟疑离开。切机位时保留同一条道路和连续递增的时间戳。画面有低分辨率、暗角和轻微扫描线。演员表情保持严肃，让古装场景和突兀的现代道具形成笑点。",
+      "promptLanguage": "ZH",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "liyue_ai",
+        "name": "李岳"
+      },
+      "publishedAt": "2026-11-10T16:32:25Z",
+      "promptSourceUrl": "https://x.com/liyue_ai/status/2120192868354760777",
+      "videoSourceUrl": "https://x.com/liyue_ai/status/2120192868354760777",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2120192148775858176",
+        "width": 2560,
+        "height": 1440,
+        "orientation": "landscape",
+        "durationSec": 30.069
+      },
+      "stats": {
+        "likes": 21,
+        "views": 16186,
+        "reposts": 2,
+        "comments": 4
+      }
+    },
+    {
+      "slug": "pastel-street-fashion",
+      "title": {
+        "en": "A Pastel Korean Street-Fashion Reel",
+        "ja": "パステル色の韓国ストリートファッション"
+      },
+      "summary": {
+        "en": "A vertical fashion reel shows how to keep an outfit consistent across a walk and close-up details.",
+        "ja": "歩きと寄りのカットをつなぎ、衣装を保つ縦型のファッション映像。"
+      },
+      "category": "ugc",
+      "tags": ["fashion", "vertical", "pastel"],
+      "prompt": "Frame a pastel street-style reel on a Korean neighborhood street. Introduce the model in a full-body walk wearing an oversized pink hoodie, a dark pleated skirt and white socks. Cut closer to catch a silver earring, the knit cuff and the movement of the hem, then return to a matching walking angle. Keep the outfit intact through the cuts. Use soft daylight and shallow focus with gentle city ambience.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "ZaidVex",
+        "name": "Zaid"
+      },
+      "publishedAt": "2026-11-17T04:04:49Z",
+      "promptSourceUrl": "https://x.com/ZaidVex/status/2122541444124885193",
+      "videoSourceUrl": "https://x.com/ZaidVex/status/2122541444124885193",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122541374633639936",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 30.743
+      },
+      "stats": {
+        "likes": 262,
+        "views": 16174,
+        "reposts": 49,
+        "comments": 29
+      }
+    },
+    {
+      "slug": "spider-in-the-family-kitchen",
+      "title": {
+        "en": "The Spider in the Family Kitchen",
+        "ja": "家族の台所に現れたクモ"
+      },
+      "summary": {
+        "en": "A sequence of reaction shots builds a family-friendly surprise around one moving prop.",
+        "ja": "一匹のクモをきっかけに、家族のリアクションを重ねる。"
+      },
+      "category": "comedy",
+      "tags": ["family", "3D animation", "surprise"],
+      "prompt": "Set a vertical animated comedy in a warm kitchen. A father waits beside a jar while his daughter and a gray cat watch closely. A second adult enters and spots a very large spider on a chair. Cut to wide eyes, raised hands and the cat freezing, then lower the camera as the spider crawls calmly onto the floor. Give each character a different reaction and time the last beat around a short silence.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Zarnab_with_Ai",
+        "name": "Zarnab Ai"
+      },
+      "publishedAt": "2026-11-14T02:52:04Z",
+      "promptSourceUrl": "https://x.com/Zarnab_with_Ai/status/2121435971124425139",
+      "videoSourceUrl": "https://x.com/Zarnab_with_Ai/status/2121435971124425139",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2121435791515963393",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 29.333
+      },
+      "stats": {
+        "likes": 153,
+        "views": 12281,
+        "reposts": 38,
+        "comments": 39
+      }
+    },
+    {
+      "slug": "train-through-an-undersea-tunnel",
+      "title": {
+        "en": "A Train Through an Undersea Tunnel",
+        "ja": "透明な海中トンネルを走る列車"
+      },
+      "summary": {
+        "en": "A platform scene opens out into whales, a glass tunnel and a wide view from above the sea.",
+        "ja": "駅のホームから海中トンネルとクジラを見せ、海全体の俯瞰へ移る。"
+      },
+      "category": "landscape",
+      "tags": ["underwater", "train", "camera pullback"],
+      "prompt": "青い夜明けの駅に銀色の列車がゆっくり入る。ホームを歩く乗客を横から追い、乗車と窓側の席に腰かける動きを短いカットでつなぐ。列車が透明な海中トンネルに入ったら、窓の外のクラゲとクジラを見せる。車外の俯瞰に切り替え、トンネルが海を横切るところまで引く。最後は車内の横顔に戻り、揺れる水の光を頬に映す。台詞は入れず、静かな水音と列車の走行音を残す。",
+      "promptLanguage": "JA",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "luche_whitewing",
+        "name": "翼 AIcreator"
+      },
+      "publishedAt": "2026-11-16T20:00:01Z",
+      "promptSourceUrl": "https://x.com/luche_whitewing/status/2122419440486850618",
+      "videoSourceUrl": "https://x.com/luche_whitewing/status/2122419439400608166",
+      "pairing": "same-author-thread",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122396153304268800",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "durationSec": 30.176
+      },
+      "stats": {
+        "likes": 115,
+        "views": 9888,
+        "reposts": 34,
+        "comments": 20
+      }
+    },
+    {
+      "slug": "clay-turns-into-sailing-ship",
+      "title": {
+        "en": "Clay Becomes a Miniature Sailing Ship",
+        "ja": "粘土が小さな帆船に変わる"
+      },
+      "summary": {
+        "en": "Stop-motion increments show a clay hull, miniature rigging and a finished tabletop ocean.",
+        "ja": "粘土の船体から帆やロープ、卓上の海までをコマ撮りで見せる。"
+      },
+      "category": "character-animation",
+      "tags": ["stop motion", "clay", "tabletop"],
+      "prompt": "Open overhead on brown clay and sculpting tools on a blue mat. Let the clay take shape in short stop-motion steps: first a hull, then a mast, folds in the sail and fine lines for the rigging. Shift to a lower macro angle as the finished ship moves into a tiny beach and ocean set. Keep each new piece visible just before the next one appears. Finish with a steady close-up of the little vessel on the waves.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "aynellex",
+        "name": "Aynelle"
+      },
+      "publishedAt": "2026-10-12T04:39:37Z",
+      "promptSourceUrl": "https://x.com/aynellex/status/2109504237852139774",
+      "videoSourceUrl": "https://x.com/aynellex/status/2109504237852139774",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2109504160265805824",
+        "width": 720,
+        "height": 960,
+        "orientation": "portrait",
+        "durationSec": 15.139
+      },
+      "stats": {
+        "likes": 160,
+        "views": 9715,
+        "reposts": 9,
+        "comments": 63
+      }
+    },
+    {
+      "slug": "everyday-objects-contain-worlds",
+      "title": {
+        "en": "Everyday Objects Hide Other Worlds",
+        "ja": "街の物の中に隠れた別世界"
+      },
+      "summary": {
+        "en": "Street details change in place while the handheld camera keeps the surrounding frame continuous.",
+        "ja": "手持ちの画角を保ったまま、街の小物だけが変わっていく。"
+      },
+      "category": "video-editing",
+      "tags": ["handheld", "magical realism", "match framing"],
+      "prompt": "Record a fictional handheld walk down a city street. A hand touches a leaf and it reveals a miniature green forest. At the next stop, let a drain become a window onto a ray underwater. Keep the same position and perspective of each object through its change, and leave the sidewalk unchanged. Finish as a round cover reveals a field of stars and the camera recoils. Use natural street sound and a slight focus correction after each reveal.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "hey_am_cherry",
+        "name": "Cherry"
+      },
+      "publishedAt": "2026-10-27T04:52:11Z",
+      "promptSourceUrl": "https://x.com/hey_am_cherry/status/2114943216546086979",
+      "videoSourceUrl": "https://x.com/hey_am_cherry/status/2114943216546086979",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2114943161227485184",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 15.046
+      },
+      "stats": {
+        "likes": 144,
+        "views": 8839,
+        "reposts": 14,
+        "comments": 90
+      }
+    },
+    {
+      "slug": "wedding-corridor-transformation",
+      "title": {
+        "en": "A Wedding Transformation on the Run",
+        "ja": "走りながら婚礼衣装に変わる二人"
+      },
+      "summary": {
+        "en": "A matching camera move keeps a couple’s wardrobe transformation legible through a location cut.",
+        "ja": "カメラの動きをそろえ、衣装の変化と場所の切り替えを見せる。"
+      },
+      "category": "storytelling",
+      "tags": ["wardrobe transition", "tracking", "romance"],
+      "prompt": "Follow a fictional couple running down an empty corridor. When one stumbles, the other slows to help and they take off together. Keep the follow shot moving as their everyday clothing becomes formal wedding attire in a single brief transition. Match their pace into a grand stairway and pull back to show the long fabric train following behind. Keep the actors' positions and direction consistent and leave the scene quiet.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "AIwithWania",
+        "name": "Wania"
+      },
+      "publishedAt": "2026-11-15T06:45:59Z",
+      "promptSourceUrl": "https://x.com/AIwithWania/status/2121857224100237404",
+      "videoSourceUrl": "https://x.com/AIwithWania/status/2121857224100237404",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2121857020538064896",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "durationSec": 15.105
+      },
+      "stats": {
+        "likes": 124,
+        "views": 8335,
+        "reposts": 4,
+        "comments": 66
+      }
+    },
+    {
+      "slug": "sunflower-cafe-arrival",
+      "title": {
+        "en": "Walking into a Sunflower Café",
+        "ja": "ヒマワリのカフェに入る"
+      },
+      "summary": {
+        "en": "A café entrance carries warm light and sunflower shapes from the opening image into motion.",
+        "ja": "開始画像のヒマワリと暖かな光を保って、カフェの入り口を動画にする。"
+      },
+      "category": "ugc",
+      "tags": ["cafe", "starting frame", "light"],
+      "prompt": "Begin with your own image of an adult entering a concrete-walled café filled with sunflowers. Set the camera at fixed positions. Match the person's steps from a doorway shot to a low view of the flower table, then to a still close-up of her holding a cup. Let the pendant light take over from the daylight outside and keep the room and wardrobe in the same positions across cuts. Use quiet footsteps and room ambience.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": true,
+      "author": {
+        "handle": "ZaraIrahh",
+        "name": "Zara"
+      },
+      "publishedAt": "2026-11-12T10:40:54Z",
+      "promptSourceUrl": "https://x.com/ZaraIrahh/status/2120829181562884426",
+      "videoSourceUrl": "https://x.com/ZaraIrahh/status/2120829181562884426",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2120828616099635200",
+        "width": 1080,
+        "height": 1920,
+        "orientation": "portrait",
+        "durationSec": 14.633
+      },
+      "stats": {
+        "likes": 173,
+        "views": 7222,
+        "reposts": 29,
+        "comments": 25
+      }
+    },
+    {
+      "slug": "coastal-motorcycle-and-panther",
+      "title": {
+        "en": "A Motorcycle and a Panther on the Coast",
+        "ja": "海岸道路のバイクと黒いヒョウ"
+      },
+      "summary": {
+        "en": "Tracking shots and a moment of stillness interrupt a winding-road sequence.",
+        "ja": "曲がりくねった道の追走カットに、静止した一瞬を差し込む。"
+      },
+      "category": "storytelling",
+      "tags": ["coast", "motorcycle", "animal encounter"],
+      "prompt": "Track behind a fictional rider on a coastal mountain road under soft clouds. Cut to a side angle that holds the cliff and ocean in the background. The rider stops at a safe pullout and notices a black panther near the roadside. Cut between the still animal and the rider's quiet reaction. Return to a wide follow shot as the bike moves away, leaving the animal where it was. Keep the same jacket and motorcycle throughout.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "itsSaira_1",
+        "name": "Sᴀɪʀᴀ"
+      },
+      "publishedAt": "2026-11-15T04:07:33Z",
+      "promptSourceUrl": "https://x.com/itsSaira_1/status/2121817354279510226",
+      "videoSourceUrl": "https://x.com/itsSaira_1/status/2121817354279510226",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2121817283903528960",
+        "width": 1272,
+        "height": 718,
+        "orientation": "landscape",
+        "durationSec": 13.048
+      },
+      "stats": {
+        "likes": 346,
+        "views": 6782,
+        "reposts": 28,
+        "comments": 46
+      }
+    },
+    {
+      "slug": "skincare-jar-water-reveal",
+      "title": {
+        "en": "A Skincare Jar Revealed Through Water",
+        "ja": "水面から見せるスキンケア容器"
+      },
+      "summary": {
+        "en": "Ripples, droplets and a final packshot structure a skincare commercial.",
+        "ja": "波紋、水滴、最後の商品カットで組み立てたスキンケア広告。"
+      },
+      "category": "product",
+      "tags": ["beauty", "water", "packshot"],
+      "prompt": "Stage a silver-lidded moisturizer jar on a reflective blue surface. Move gently forward as ripples pass beneath the jar. Cut to a macro view of water droplets and white petals near the glass, then bring focus back to the jar as the water settles. End centered with an uncluttered packshot in cool soft light. Use the same jar shape and lid in each shot.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "ItsEiraXa",
+        "name": "Eira"
+      },
+      "publishedAt": "2026-11-17T02:37:48Z",
+      "promptSourceUrl": "https://x.com/ItsEiraXa/status/2122519545747587115",
+      "videoSourceUrl": "https://x.com/ItsEiraXa/status/2122519545747587115",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122519275059793920",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 15.046
+      },
+      "stats": {
+        "likes": 14,
+        "views": 5801,
+        "reposts": 1,
+        "comments": 8
+      }
+    },
+    {
+      "slug": "the-egg-rolls-down-the-cliff",
+      "title": {
+        "en": "A Rolling Egg on a Mountain Cliff",
+        "ja": "山の崖を転がる卵"
+      },
+      "summary": {
+        "en": "A rolling egg gives a stylized scene a simple movement to follow across cuts.",
+        "ja": "転がる卵を追い、複数のカットを一つの動きでつなぐ。"
+      },
+      "category": "character-animation",
+      "tags": ["3D animation", "rolling motion", "cliff"],
+      "prompt": "In a stylized 3D mountain scene, show a mother bird moving along a rocky ledge with eggs in a cloth basket. One egg slips loose. Move from the bird's startled reaction to a low view of the egg bouncing along the rock. Keep its path clear in each new angle and show the bird moving to catch up. Use warm late-day light and short taps as the shell contacts the stone.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Zarnab_with_Ai",
+        "name": "Zarnab Ai"
+      },
+      "publishedAt": "2026-09-05T01:53:59Z",
+      "promptSourceUrl": "https://x.com/Zarnab_with_Ai/status/2096054201382224053",
+      "videoSourceUrl": "https://x.com/Zarnab_with_Ai/status/2096054201382224053",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2096053986009006080",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 26.004
+      },
+      "stats": {
+        "likes": 168,
+        "views": 5719,
+        "reposts": 24,
+        "comments": 60
+      }
+    },
+    {
+      "slug": "secret-strawberry-garden",
+      "title": {
+        "en": "The Secret Strawberry Garden",
+        "ja": "イチゴの中の小さな庭"
+      },
+      "summary": {
+        "en": "A miniature garden inside a strawberry gives a kitchen sequence a series of motivated reveals.",
+        "ja": "イチゴの中の小さな庭をきっかけに、台所の場面を展開する。"
+      },
+      "category": "character-animation",
+      "tags": ["2D animation", "dessert", "miniature"],
+      "prompt": "Start from an original illustrated character in a nighttime kitchen. She opens the fridge and takes out a strawberry. Cut to the blade opening it and then move in to reveal a tiny glowing garden inside. Return to her hands as she prepares a jelly dessert around the miniature world. Close on the finished plate with gentle reflections. Keep the kitchen layout consistent and give each cut a clear sound cue, such as the fridge door or a spoon against glass.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": true,
+      "author": {
+        "handle": "hey_am_cherry",
+        "name": "Cherry"
+      },
+      "publishedAt": "2026-11-16T04:53:14Z",
+      "promptSourceUrl": "https://x.com/hey_am_cherry/status/2122191241257603113",
+      "videoSourceUrl": "https://x.com/hey_am_cherry/status/2122191241257603113",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122191196072407040",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "durationSec": 30.079
+      },
+      "stats": {
+        "likes": 123,
+        "views": 5168,
+        "reposts": 7,
+        "comments": 100
+      }
+    },
+    {
+      "slug": "pumpkin-cup-monster-ad",
+      "title": {
+        "en": "A Pumpkin Cup Draws a Crowd",
+        "ja": "カボチャのカップに集まるモンスター"
+      },
+      "summary": {
+        "en": "A playful Halloween product ad makes one prop the center of three fast beats.",
+        "ja": "一つの小道具を中心に展開するハロウィーンの広告。"
+      },
+      "category": "product",
+      "tags": ["Halloween", "product story", "costumes"],
+      "prompt": "Use an original starting image of a person reaching for a pumpkin-shaped cup in a shop. The light dims and a group of costumed monsters rush toward the prop. Follow the person into the street, cut to a position low enough to keep the cup visible and make it the focus of a harmless comic scramble. End on a clear close-up with the cup in the foreground. Keep its shape and orange color consistent.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": true,
+      "author": {
+        "handle": "MeenakshiYACS",
+        "name": "Meenakshi Yadav"
+      },
+      "publishedAt": "2026-10-25T04:06:14Z",
+      "promptSourceUrl": "https://x.com/MeenakshiYACS/status/2114206878293246053",
+      "videoSourceUrl": "https://x.com/MeenakshiYACS/status/2114206878293246053",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2114206690900168705",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 15.041
+      },
+      "stats": {
+        "likes": 95,
+        "views": 4684,
+        "reposts": 8,
+        "comments": 67
+      }
+    },
+    {
+      "slug": "pink-river-in-a-fruit-garden",
+      "title": {
+        "en": "A Pink River in a Fruit Garden",
+        "ja": "果物の庭を流れるピンク色の川"
+      },
+      "summary": {
+        "en": "A bright fantasy landscape uses oversized fruit to establish a vivid sense of scale.",
+        "ja": "巨大な果物と川の色で、空想の庭のスケールを見せる。"
+      },
+      "category": "character-animation",
+      "tags": ["3D animation", "fantasy", "color"],
+      "prompt": "Glide over a pink river in a bright 3D garden where strawberries and grapes are the size of trees. Open wide, then descend between the fruit to catch reflections and ripples at river level. Keep the giant fruit rooted in the same positions as the camera goes by. Use warm midday light, clean silhouettes and soft splashes to connect the wide and close views.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Zarnab_with_Ai",
+        "name": "Zarnab Ai"
+      },
+      "publishedAt": "2026-10-09T10:27:18Z",
+      "promptSourceUrl": "https://x.com/Zarnab_with_Ai/status/2108504570603491475",
+      "videoSourceUrl": "https://x.com/Zarnab_with_Ai/status/2108504570603491475",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2108504410074890240",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 17.252
+      },
+      "stats": {
+        "likes": 176,
+        "views": 4478,
+        "reposts": 38,
+        "comments": 49
+      }
+    },
+    {
+      "slug": "father-and-baby-mirror-faces",
+      "title": {
+        "en": "A Father and Baby Trade Funny Faces",
+        "ja": "父と赤ちゃんの変顔合戦"
+      },
+      "summary": {
+        "en": "Alternating close-ups make a small living-room performance feel like a conversation.",
+        "ja": "交互の接写で父と赤ちゃんの表情を会話のように見せる。"
+      },
+      "category": "comedy",
+      "tags": ["family", "vertical", "reaction shots"],
+      "prompt": "Create a vertical 3D comedy in a sunny living room. Begin with a father holding his daughter and her teddy bear. Move from the two-shot to the baby in close-up as she scrunches her face around her pacifier. Hold one beat, then show her father copying the expression with theatrical seriousness. Alternate their reactions and end with both in the same frame. Keep the bear and position of the characters consistent.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Zarnab_with_Ai",
+        "name": "Zarnab Ai"
+      },
+      "publishedAt": "2026-11-17T02:40:52Z",
+      "promptSourceUrl": "https://x.com/Zarnab_with_Ai/status/2122520316874555663",
+      "videoSourceUrl": "https://x.com/Zarnab_with_Ai/status/2122520316874555663",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122520187576729600",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 23.1
+      },
+      "stats": {
+        "likes": 167,
+        "views": 3925,
+        "reposts": 36,
+        "comments": 59
+      }
+    },
+    {
+      "slug": "mushroom-on-a-tabletop",
+      "title": {
+        "en": "A Tiny Mushroom on a Tabletop",
+        "ja": "テーブルの上の小さなキノコ"
+      },
+      "summary": {
+        "en": "A tabletop macro scene uses a hand and a drop of water to establish the character’s scale.",
+        "ja": "手と水滴を比較対象に、テーブル上のキャラクターの小ささを見せる。"
+      },
+      "category": "character-animation",
+      "tags": ["macro", "miniature", "creature"],
+      "prompt": "Place a palm-sized furry creature with a spotted red mushroom cap on a wooden table. At macro distance, show it notice a bead of water and dab its eyes with a scrap of tissue. It then runs across the wood grain past a resting hand that makes its size clear. Track alongside at tabletop height. Keep the room softly out of focus and emphasize light footsteps and the texture of the tabletop.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Zarnab_with_Ai",
+        "name": "Zarnab Ai"
+      },
+      "publishedAt": "2026-09-13T11:07:00Z",
+      "promptSourceUrl": "https://x.com/Zarnab_with_Ai/status/2099092478809034969",
+      "videoSourceUrl": "https://x.com/Zarnab_with_Ai/status/2099092478809034969",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2099092171102339073",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 15.068
+      },
+      "stats": {
+        "likes": 120,
+        "views": 3379,
+        "reposts": 22,
+        "comments": 42
+      }
+    },
+    {
+      "slug": "tiger-cub-at-daybreak",
+      "title": {
+        "en": "A Tiger Cub at Daybreak",
+        "ja": "夜明けのトラの子"
+      },
+      "summary": {
+        "en": "Low wildlife coverage and a dawn ridge reveal follow a cub exploring at its own pace.",
+        "ja": "低い視点と夜明けの尾根の引き画で、子トラの探索を追う。"
+      },
+      "category": "landscape",
+      "tags": ["wildlife", "dawn", "telephoto"],
+      "prompt": "Open low on a tiger cub in tall grass beside its mother at dawn. Follow it climbing over a root and pausing to bat at a falling leaf. Cut closer to the ears turning when it hears a sound, then show the mother waiting nearby. Transition from the intimate low angles to a wide view of both tigers on a forest ridge. Keep coat markings consistent and let birds, water and moving grass fill the soundtrack.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "CharaspowerAI",
+        "name": "Pierrick Chevallier | IA"
+      },
+      "publishedAt": "2026-09-05T19:00:29Z",
+      "promptSourceUrl": "https://x.com/CharaspowerAI/status/2096312555073425556",
+      "videoSourceUrl": "https://x.com/CharaspowerAI/status/2096312532432457924",
+      "pairing": "same-author-thread",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2096312471195684864",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 30.08
+      },
+      "stats": {
+        "likes": 46,
+        "views": 3142,
+        "reposts": 6,
+        "comments": 6
+      }
+    },
+    {
+      "slug": "otter-meets-a-goose",
+      "title": {
+        "en": "An Otter Meets a Goose",
+        "ja": "カワウソとガチョウの出会い"
+      },
+      "summary": {
+        "en": "A small exchange by a clear lake uses cutaways, eye lines and reactions instead of spoken dialogue.",
+        "ja": "澄んだ湖のほとりで、視線とリアクションを使って見せる小さな交流。"
+      },
+      "category": "storytelling",
+      "tags": ["animals", "lakeside", "vertical"],
+      "prompt": "At the edge of a clear mountain lake, show a young otter sit up with a small fish. Frame its approach toward a white goose at water level, with the grass and reeds tracking steadily behind them. Cut between the otter showing its catch and the goose leaning in. Finish on both animals in one wide shot. Keep their natural scale, let the water ripple and use gentle animal and lakeside sounds.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Zarnab_with_Ai",
+        "name": "Zarnab Ai"
+      },
+      "publishedAt": "2026-09-19T11:00:08Z",
+      "promptSourceUrl": "https://x.com/Zarnab_with_Ai/status/2101265074723930617",
+      "videoSourceUrl": "https://x.com/Zarnab_with_Ai/status/2101265074723930617",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2101264872592068608",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 30.834
+      },
+      "stats": {
+        "likes": 92,
+        "views": 3015,
+        "reposts": 15,
+        "comments": 36
+      }
+    },
+    {
+      "slug": "red-scarf-through-paris",
+      "title": {
+        "en": "A Red Scarf Winds Through Paris",
+        "ja": "赤いマフラーがパリを駆ける"
+      },
+      "summary": {
+        "en": "The motion of one bright scarf ties together animated views of Paris.",
+        "ja": "一本の赤いマフラーの動きでパリの風景をつなぐ。"
+      },
+      "category": "character-animation",
+      "tags": ["2D animation", "Paris", "flowing fabric"],
+      "prompt": "Animate a woman in a dark coat walking through Paris with an impossibly long red scarf. Start close enough to see it lift in the wind, then follow its path past a market, around a bench and across the frame as the street opens toward the river. Keep the character's walk steady and use the scarf as the main moving line. Use hand-drawn shapes, a restrained palette and a little wind and street sound.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "AizaAi12",
+        "name": "Aiza"
+      },
+      "publishedAt": "2026-11-17T02:07:36Z",
+      "promptSourceUrl": "https://x.com/AizaAi12/status/2122511943890309382",
+      "videoSourceUrl": "https://x.com/AizaAi12/status/2122511943890309382",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122511818304405504",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 43.63
+      },
+      "stats": {
+        "likes": 75,
+        "views": 2727,
+        "reposts": 12,
+        "comments": 23
+      }
+    },
+    {
+      "slug": "rover-in-a-desert-superstorm",
+      "title": {
+        "en": "A Rover Meets a Desert Superstorm",
+        "ja": "砂漠の嵐に立ち向かう探査車"
+      },
+      "summary": {
+        "en": "A wide storm reveal gives way to a vehicle close-up and one last exterior shot.",
+        "ja": "嵐の広い画角から車内の接写を挟み、最後に車外へ切り替える。"
+      },
+      "category": "action",
+      "tags": ["science fiction", "storm", "vehicle"],
+      "prompt": "Stage a short science-fiction sequence in a desaturated desert. Begin from far above as the leading edge of a storm swallows the horizon behind a rover. Jump in close for dashboard reflections and shaking dust, then cut outside as the vehicle crests a dune. Hold the silhouette against flashes inside the storm cloud. End abruptly on black with a single deep sound and preserve the rover’s direction across the cuts.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Goodmanprotocol",
+        "name": "Saul Goodman"
+      },
+      "publishedAt": "2026-11-08T14:23:20Z",
+      "promptSourceUrl": "https://x.com/Goodmanprotocol/status/2119435608443826433",
+      "videoSourceUrl": "https://x.com/Goodmanprotocol/status/2119435608443826433",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2119435570242060288",
+        "width": 1284,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 15.1
+      },
+      "stats": {
+        "likes": 56,
+        "views": 2645,
+        "reposts": 4,
+        "comments": 16
+      }
+    },
+    {
+      "slug": "mirror-studio-dance-rehearsal",
+      "title": {
+        "en": "A Dance Rehearsal in a Mirror Studio",
+        "ja": "鏡のあるスタジオでダンス練習"
+      },
+      "summary": {
+        "en": "A casual rehearsal vlog sets the phone down so the audience can see the whole movement.",
+        "ja": "スマートフォンを置いた画角で、練習中の全身の動きを見せる。"
+      },
+      "category": "ugc",
+      "tags": ["dance", "rehearsal", "smartphone"],
+      "prompt": "Begin from the front-facing camera in a dance studio. A dancer briefly checks the frame, then sets the phone down so the group and mirror are visible. Hold as the group rehearses a short combination with clear footwork and matching reflections. Pick the camera up for a moment of breath and a smile, then pan back toward the group repeating the sequence. Keep the same room and outfits and use the sound of shoes and music from the room.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "mehvishs25",
+        "name": "Meem"
+      },
+      "publishedAt": "2026-11-14T04:00:15Z",
+      "promptSourceUrl": "https://x.com/mehvishs25/status/2121453128335884628",
+      "videoSourceUrl": "https://x.com/mehvishs25/status/2121453128335884628",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2121453011503587328",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 15.098
+      },
+      "stats": {
+        "likes": 56,
+        "views": 2612,
+        "reposts": 2,
+        "comments": 30
+      }
+    },
+    {
+      "slug": "runner-crosses-four-worlds",
+      "title": {
+        "en": "A Runner Crosses Four Worlds",
+        "ja": "四つの世界を走り抜ける"
+      },
+      "summary": {
+        "en": "Portal transitions preserve one runner’s direction and pace through several distinct environments.",
+        "ja": "ポータルを通るたび環境が変わっても、走る向きと速さを保つ。"
+      },
+      "category": "action",
+      "tags": ["continuous action", "portal", "match motion"],
+      "prompt": "Keep a single tracking shot on a runner passing through a series of portals. Start in a metal corridor. Match the runner's stride into a dusty desert, then a frozen street and a rooftop lit by neon signs. Use echoes, wind and changes in light to mark each transition. Preserve the direction of travel and the timing of the steps as each world changes. Finish in a wide frame with the previous worlds visible behind the runner.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "CharaspowerAI",
+        "name": "Pierrick Chevallier | IA"
+      },
+      "publishedAt": "2026-11-12T19:00:14Z",
+      "promptSourceUrl": "https://x.com/CharaspowerAI/status/2120954864473641407",
+      "videoSourceUrl": "https://x.com/CharaspowerAI/status/2120954842155741191",
+      "pairing": "same-author-thread",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2120954798895767552",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 25.056
+      },
+      "stats": {
+        "likes": 40,
+        "views": 2378,
+        "reposts": 4,
+        "comments": 10
+      }
+    },
+    {
+      "slug": "dog-bartender-shakes-a-drink",
+      "title": {
+        "en": "A Dog Bartender Shakes a Drink",
+        "ja": "犬のバーテンダーがシェーカーを振る"
+      },
+      "summary": {
+        "en": "A reference-led close-up comedy uses a shaker and a serious expression to carry the joke.",
+        "ja": "開始画像を起点に、シェーカーと真剣な表情で見せるコメディ。"
+      },
+      "category": "comedy",
+      "tags": ["dog", "prop interaction", "short comedy"],
+      "prompt": "Start with your own image of a fluffy white dog behind a walnut bar. Keep the same navy apron and warm light as the dog rests its front paws beside a metal shaker. Cut in closer when the lid goes on and the shaker starts rattling. Hold on the dog's very solemn expression before the finished drink slides into frame. Use synchronized clinks and counter sounds to sell the sequence.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": true,
+      "author": {
+        "handle": "MeenakshiYACS",
+        "name": "Meenakshi Yadav"
+      },
+      "publishedAt": "2026-11-01T13:07:46Z",
+      "promptSourceUrl": "https://x.com/MeenakshiYACS/status/2116879873730109558",
+      "videoSourceUrl": "https://x.com/MeenakshiYACS/status/2116879873730109558",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2116879731513761792",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 9.041
+      },
+      "stats": {
+        "likes": 81,
+        "views": 2300,
+        "reposts": 5,
+        "comments": 73
+      }
+    },
+    {
+      "slug": "dragon-lifts-a-river-boat",
+      "title": {
+        "en": "A Dragon Lifts a Wooden Tub from the River",
+        "ja": "ドラゴンが川から木のたらいを持ち上げる"
+      },
+      "summary": {
+        "en": "The jump from river height to an aerial wide shot makes a gentle dragon reveal feel large.",
+        "ja": "川の高さから空撮に切り替え、穏やかなドラゴンの大きさを見せる。"
+      },
+      "category": "storytelling",
+      "tags": ["fantasy", "river", "reveal"],
+      "prompt": "Follow a wooden tub drifting along a river in a misty mountain valley. Keep the camera low as the passenger steadies herself in the water. A large pink-and-white dragon glides alongside, lifts the tub slowly and carries it over the river. Pull out to an aerial view as the water drops away. Let the tub sway gently and support the change in height with wind and running water.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "AizaAi12",
+        "name": "Aiza"
+      },
+      "publishedAt": "2026-11-10T11:57:10Z",
+      "promptSourceUrl": "https://x.com/AizaAi12/status/2120123597423563103",
+      "videoSourceUrl": "https://x.com/AizaAi12/status/2120123597423563103",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2120123434885918720",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 29.919
+      },
+      "stats": {
+        "likes": 62,
+        "views": 2231,
+        "reposts": 6,
+        "comments": 20
+      }
+    },
+    {
+      "slug": "red-rock-canyon-pov",
+      "title": {
+        "en": "One Continuous Canyon POV",
+        "ja": "赤い峡谷を抜ける一人称のワンカット"
+      },
+      "summary": {
+        "en": "A canyon sequence tests continuous point of view, wind and the sense of distance over water.",
+        "ja": "峡谷を舞台に、途切れない視点と風、水面までの距離を表現する。"
+      },
+      "category": "landscape",
+      "tags": ["POV", "continuous take", "canyon"],
+      "prompt": "Create a fictional action-film POV high above a desert river. Keep a single camera viewpoint as it follows the red-rock canyon and then drifts lower over the water. Use small body tilts and brief zooms to alternate between the rocky walls, the river and a boat waiting in the distance. Let the wind soften as the camera nears the water and end mid-motion as the waiting crew comes into view.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "harboriis",
+        "name": "Harboris"
+      },
+      "publishedAt": "2026-11-15T06:45:44Z",
+      "promptSourceUrl": "https://x.com/harboriis/status/2121857163643715773",
+      "videoSourceUrl": "https://x.com/harboriis/status/2121857163643715773",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2121855703879151616",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 30.08
+      },
+      "stats": {
+        "likes": 54,
+        "views": 2081,
+        "reposts": 5,
+        "comments": 27
+      }
+    },
+    {
+      "slug": "roasted-sweet-potato-at-night",
+      "title": {
+        "en": "Roasted Sweet Potatoes on a Snowy Night",
+        "ja": "雪の夜の焼き芋"
+      },
+      "summary": {
+        "en": "Warm charcoal and steam contrast with cool street light in a short food scene.",
+        "ja": "冷たい街灯と、炭火や湯気の暖かさを対比させる。"
+      },
+      "category": "storytelling",
+      "tags": ["street food", "winter", "lighting"],
+      "prompt": "Track along a snowy Korean street at night toward a food cart with glowing charcoal. Move from a person approaching the stall to a close-up of the steam when a roasted sweet potato is opened. Let shop signs reflect in the wet pavement while the subject warms her hands and tastes it. End on the ember glow and her small smile, with snow still moving gently through the frame. Use street ambience and crackling charcoal.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Hassanlaurent",
+        "name": "Hassan"
+      },
+      "publishedAt": "2026-11-11T02:40:49Z",
+      "promptSourceUrl": "https://x.com/Hassanlaurent/status/2120345974929277297",
+      "videoSourceUrl": "https://x.com/Hassanlaurent/status/2120345974929277297",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2120345932608798720",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 10.031
+      },
+      "stats": {
+        "likes": 41,
+        "views": 1208,
+        "reposts": 1,
+        "comments": 19
+      }
+    },
+    {
+      "slug": "building-a-cathedral-in-miniature",
+      "title": {
+        "en": "Building a Cathedral in Miniature",
+        "ja": "ミニチュアの大聖堂を組み立てる"
+      },
+      "summary": {
+        "en": "A build sequence moves from sketches and loose blocks to a finished architectural model.",
+        "ja": "図面とばらばらのブロックから完成した建築模型までを見せる。"
+      },
+      "category": "product",
+      "tags": ["architecture", "miniature", "timelapse"],
+      "prompt": "Start in a bright architecture studio with drawings, a clock and a table of pale building blocks. Cut close to gloved hands assembling the base of a miniature cathedral. Use evenly spaced cuts as the arches and towers rise. Pause on the final ornament being placed, then pull back to show the completed model and the two builders. Keep the proportions of the structure steady and use soft side light to reveal its surface.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "itsSaira_1",
+        "name": "Sᴀɪʀᴀ"
+      },
+      "publishedAt": "2026-11-14T04:29:33Z",
+      "promptSourceUrl": "https://x.com/itsSaira_1/status/2121460505051336980",
+      "videoSourceUrl": "https://x.com/itsSaira_1/status/2121460505051336980",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2121460454832660481",
+        "width": 1276,
+        "height": 718,
+        "orientation": "landscape",
+        "durationSec": 29.534
+      },
+      "stats": {
+        "likes": 110,
+        "views": 1163,
+        "reposts": 7,
+        "comments": 24
+      }
+    },
+    {
+      "slug": "cat-wins-a-sumo-match",
+      "title": {
+        "en": "A Cat Wins a Sumo Match",
+        "ja": "猫が相撲で勝つ日"
+      },
+      "summary": {
+        "en": "The crowd’s reaction sells an absurd sports scene filmed like a spontaneous phone clip.",
+        "ja": "観客の反応が、偶然撮れたような猫の相撲映像を支える。"
+      },
+      "category": "comedy",
+      "tags": ["animals", "smartphone", "comedy timing"],
+      "prompt": "Film a fictional bout from the edge of a crowded sumo ring. The unlikely contestant is a small cat that waits calmly while the spectators lean in. Frame the bout from between two shoulders, using a slightly late zoom and a moment of soft focus as the cat knocks the larger opponent off balance in a harmless comic tumble. Pause on the cat's steady gaze before the spectators burst into laughter and cheers.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "CharaspowerAI",
+        "name": "Pierrick Chevallier | IA"
+      },
+      "publishedAt": "2026-11-17T19:00:08Z",
+      "promptSourceUrl": "https://x.com/CharaspowerAI/status/2122766756879974593",
+      "videoSourceUrl": "https://x.com/CharaspowerAI/status/2122766756879974593",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122766723002552320",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 20.064
+      },
+      "stats": {
+        "likes": 11,
+        "views": 960,
+        "reposts": 0,
+        "comments": 2
+      }
+    },
+    {
+      "slug": "grandpa-and-the-first-steps",
+      "title": {
+        "en": "Grandpa Watches the First Steps",
+        "ja": "おじいちゃんが見守る初めの一歩"
+      },
+      "summary": {
+        "en": "Low angles and family reaction shots make a toddler’s first attempt at standing the comic beat.",
+        "ja": "幼い子が立つ場面を低いカメラと家族のリアクションで見せる。"
+      },
+      "category": "comedy",
+      "tags": ["family", "3D animation", "reaction shots"],
+      "prompt": "Stage a warm 3D animated family scene in a living room. At carpet height, show a toddler playing with alphabet blocks while a grandfather leans down to see what she is doing. Let the toddler crawl over and rise unsteadily with a very serious expression. Cut to the parents sharing a laugh, then land on a close-up of the child grinning. Let a short pause just before the grin set the timing.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Zarnab_with_Ai",
+        "name": "Zarnab Ai"
+      },
+      "publishedAt": "2026-11-18T02:27:27Z",
+      "promptSourceUrl": "https://x.com/Zarnab_with_Ai/status/2122879326253383943",
+      "videoSourceUrl": "https://x.com/Zarnab_with_Ai/status/2122879326253383943",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122879237074087936",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 15.045
+      },
+      "stats": {
+        "likes": 40,
+        "views": 827,
+        "reposts": 11,
+        "comments": 17
+      }
+    },
+    {
+      "slug": "black-coupe-fashion-editorial",
+      "title": {
+        "en": "A Black Coupe Fashion Editorial",
+        "ja": "黒いクーペのファッション映像"
+      },
+      "summary": {
+        "en": "Quick cuts use the mirror, seats and bodywork of one car to frame a fashion editorial.",
+        "ja": "ミラー、シート、車体を素早く切り替える自動車ファッション映像。"
+      },
+      "category": "travel-commercial",
+      "tags": ["automotive", "fashion", "quick cuts"],
+      "prompt": "Create a short fashion editorial built around one glossy black coupe. Open tight on the rear-view mirror, then cut between the person in the driver's seat, a portrait from the rear seat and a wider hood-side pose. Move overhead to show the shape of the roof. Finish beside the open door. Keep the same outfit, car and lighting across the cuts. Use the interior and bodywork as frames for the subject.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "MissDelulu9",
+        "name": "Eesha"
+      },
+      "publishedAt": "2026-11-18T03:24:08Z",
+      "promptSourceUrl": "https://x.com/MissDelulu9/status/2122893591681085545",
+      "videoSourceUrl": "https://x.com/MissDelulu9/status/2122893591681085545",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122893556692205568",
+        "width": 854,
+        "height": 480,
+        "orientation": "landscape",
+        "durationSec": 10.08
+      },
+      "stats": {
+        "likes": 38,
+        "views": 731,
+        "reposts": 1,
+        "comments": 24
+      }
+    },
+    {
+      "slug": "white-dragon-in-a-stone-hall",
+      "title": {
+        "en": "A White Dragon in a Stone Hall",
+        "ja": "石造りの広間の白いドラゴン"
+      },
+      "summary": {
+        "en": "A slow head movement and a hand reaching out carry most of the scene.",
+        "ja": "ドラゴンがゆっくり頭を下げ、手が伸びる動きで見せる場面。"
+      },
+      "category": "storytelling",
+      "tags": ["fantasy", "creature", "slow push-in"],
+      "prompt": "Frame a person in a pale gown in a medieval stone hall with a large white dragon. Start wide enough to establish the height of the arches and wings. Allow the dragon to lower its head slowly, then move in on a hand reaching toward its scaled brow. Keep the movement gentle and let light catch the pale scales without losing the shadows of the hall. Finish with a still close-up of the two figures.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "SeeratFatima112",
+        "name": "Seerat Fatima"
+      },
+      "publishedAt": "2026-11-18T02:29:18Z",
+      "promptSourceUrl": "https://x.com/SeeratFatima112/status/2122879800373059722",
+      "videoSourceUrl": "https://x.com/SeeratFatima112/status/2122879794475921527",
+      "pairing": "same-author-thread",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122879741015552000",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 15.041
+      },
+      "stats": {
+        "likes": 8,
+        "views": 262,
+        "reposts": 0,
+        "comments": 7
+      }
+    },
+    {
+      "slug": "matte-white-can-night-kitchen",
+      "title": {
+        "en": "A White Can in a Night Kitchen",
+        "ja": "夜のキッチンに置いた白い缶"
+      },
+      "summary": {
+        "en": "Five quick shots turn an unbranded cylinder into the focus of a kitchen product spot.",
+        "ja": "無地の白い缶を中心にした、短い五つのカット。"
+      },
+      "category": "product",
+      "tags": ["product spot", "hard cuts", "night lighting"],
+      "prompt": "Use your own image of an unbranded white can as the opening frame. In a dim home kitchen, cut from a medium shot of a person picking it up to a close-up of fingers around the rim. Shift the angle to catch a warm edge of light on the matte cylinder. Show it being set back down and end with a still packshot. Keep the can's proportions and plain surface consistent through each cut. Add short kitchen sounds and light film grain.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": true,
+      "author": {
+        "handle": "magnific",
+        "name": "Magnific"
+      },
+      "publishedAt": "2026-11-17T23:15:18Z",
+      "promptSourceUrl": "https://x.com/magnific/status/2122830970051240072",
+      "videoSourceUrl": "https://x.com/magnific/status/2122830970051240072",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122830940800155648",
+        "width": 1920,
+        "height": 1080,
+        "orientation": "landscape",
+        "durationSec": 10.05
+      },
+      "stats": {
+        "likes": 2,
+        "views": 221,
+        "reposts": 0,
+        "comments": 1
+      }
+    },
+    {
+      "slug": "coffee-on-the-sofa",
+      "title": {
+        "en": "A Quiet Cup of Coffee",
+        "ja": "ソファで味わう静かなコーヒー"
+      },
+      "summary": {
+        "en": "A sofa portrait uses a sip of coffee and a small expression change as the scene’s only action.",
+        "ja": "コーヒーの一口と小さな表情の変化で場面を見せる。"
+      },
+      "category": "ugc",
+      "tags": ["coffee", "quiet movement", "close-up"],
+      "prompt": "Set a short portrait in a softly lit apartment. A woman in a cream sweater sits with both hands wrapped around a ceramic mug. Begin at medium distance, then move slowly closer as she looks down, cools the drink with a breath and takes one sip. Hold while she looks up and smiles. Keep window light steady and let the faint room tone carry the pause.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "Hassanlaurent",
+        "name": "Hassan"
+      },
+      "publishedAt": "2026-11-18T03:57:18Z",
+      "promptSourceUrl": "https://x.com/Hassanlaurent/status/2122901937460822427",
+      "videoSourceUrl": "https://x.com/Hassanlaurent/status/2122901937460822427",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122901907836489728",
+        "width": 720,
+        "height": 1280,
+        "orientation": "portrait",
+        "durationSec": 10.0
+      },
+      "stats": {
+        "likes": 4,
+        "views": 59,
+        "reposts": 0,
+        "comments": 3
+      }
+    },
+    {
+      "slug": "a-fictional-wave-at-the-waterfront",
+      "title": {
+        "en": "A Fictional Wave at the Waterfront",
+        "ja": "海沿いの街に迫る架空の大波"
+      },
+      "summary": {
+        "en": "A phone-camera opening gives way to wide shots of a fictional coastal flood.",
+        "ja": "スマートフォンの画角から、架空の海沿いの街を見渡す広い画角に移る。"
+      },
+      "category": "action",
+      "tags": ["disaster fiction", "water motion", "wide reveal"],
+      "prompt": "Stage a fictional disaster-film scene on an anonymous coastal waterfront. Begin close on a phone held toward an approaching swell. Cut wide enough to see the rise of water behind buildings, then follow two fictional adults moving away as foam reaches the road. Keep their direction readable across the change of angles. Finish on a wide frame with the height of the water clear against the seawall. Use the sound of rushing water and a muted city background.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "ItsEiraXa",
+        "name": "Eira"
+      },
+      "publishedAt": "2026-11-18T03:40:45Z",
+      "promptSourceUrl": "https://x.com/ItsEiraXa/status/2122897773657981412",
+      "videoSourceUrl": "https://x.com/ItsEiraXa/status/2122897773657981412",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122897726480236544",
+        "width": 1280,
+        "height": 720,
+        "orientation": "landscape",
+        "durationSec": 15.0
+      },
+      "stats": {
+        "likes": 0,
+        "views": 43,
+        "reposts": 0,
+        "comments": 0
+      }
+    },
+    {
+      "slug": "vintage-korean-train",
+      "title": {
+        "en": "A Korean Train Journey in 1988",
+        "ja": "1988年、韓国の列車旅"
+      },
+      "summary": {
+        "en": "A faded home-video treatment connects a rural station, a carriage interior and the view from a moving train.",
+        "ja": "駅、車内、車窓を色あせたホームビデオの質感でつなぐ。"
+      },
+      "category": "travel-commercial",
+      "tags": ["period detail", "handheld", "rail travel"],
+      "prompt": "Shoot a fictional family travel film set in South Korea in the late 1980s. Begin on the platform as a blue-and-cream passenger train arrives and travelers board with woven bags. Move inside for the green seats, a newspaper turning and a snack seller passing through. Finish on rice paddies and distant hills sliding past the window. Use slightly uneven handheld framing, faded film colors and the sound of the rails. Keep modern objects out of frame.",
+      "promptLanguage": "EN",
+      "promptKind": "adapted",
+      "startingImage": false,
+      "author": {
+        "handle": "AIwithkhan",
+        "name": "Smiling Khan"
+      },
+      "publishedAt": "2026-11-18T04:58:20Z",
+      "promptSourceUrl": "https://x.com/AIwithkhan/status/2122917300374503847",
+      "videoSourceUrl": "https://x.com/AIwithkhan/status/2122917300374503847",
+      "pairing": "same-post",
+      "modelAttribution": {
+        "model": "Seedance 2.5",
+        "basis": "author-statement"
+      },
+      "video": {
+        "sourceMediaId": "2122917258238529537",
+        "width": 1436,
+        "height": 880,
+        "orientation": "landscape",
+        "durationSec": 30.093
+      },
+      "stats": {
+        "likes": 0,
+        "views": 0,
+        "reposts": 0,
+        "comments": 0
+      }
+    }
+  ]
+}
